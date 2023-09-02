@@ -1,0 +1,84 @@
+.css-ffhzg2 {
+    position: absolute;
+    /* background: brown; */
+    color: rgb(245, 240, 240);
+    inset: 0px;
+    overflow: hidden;
+
+    /* background-image: url('https://wallpapercave.com/wp/wp2162758.jpg'); */
+    background-image:url('https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis/blob/master/static/image.jpg?raw=true');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h1 {
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 700;
+    color:rgb(68, 106, 242);
+    padding: 1.25rem 0px 1rem;
+    margin: 0px;
+    line-height: 1.2;
+    text-align: center;
+}
+
+
+h2 {
+    font-family: auto;
+    font-weight: 200;
+    color: rgb(208, 255, 90);
+    letter-spacing: -0.005em;
+    padding: 1rem 0px;
+    margin: 0px;
+    font-size: 18px;
+
+}
+
+
+.css-q8sbsg p {
+    word-break: break-word;
+    margin-bottom: 0px;
+    font-size: 23px;
+}
+
+.css-16idsys p {
+    word-break: break-word;
+    margin-bottom: 0px;
+    font-size: 23px;
+    color: whitesmoke;
+}
+
+.css-18ni7ap {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 2.875rem;
+    background: black;
+    outline: none;
+    z-index: 999990;
+    display: block;
+}
+
+
+/* css-1wrcr25 {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: start;
+    place-content: flex-start;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    position: absolute;
+    inset: 0px;
+    overflow: hidden;
+    background-image: url('https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis/blob/master/static/image.jpg?raw=true');
+} */
+
+.css-fg4pbf {
+    position: absolute;
+    background: rgb(255, 255, 255);
+    color: rgb(49, 51, 63);
+    inset: 0px;
+    overflow: hidden;
+    background-image: url('https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis/blob/master/static/image.jpg?raw=true');
+}
